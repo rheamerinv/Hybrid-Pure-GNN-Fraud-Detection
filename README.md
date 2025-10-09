@@ -30,11 +30,11 @@ Uses hybrid GNN + symbolic rules on PaySim transactions
 
 ## Brief Outline of proj :
 
-Demo w - contains datasets preparation, model and full end to end demo system for demo
-EDA datasets - contains EDA files for both datasets
-GNN models for Credit Card dataset - Pure GNN model and Symbolic GNN model (hybrid)
-GNN models for Paysim - Pure GNN model and Symbolic GNN model (hybrid)
-requitements.txt - requitements for the project
+1. Demo w - contains datasets preparation, model and full end to end demo system for demo
+2. EDA datasets - contains EDA files for both datasets
+3. GNN models for Credit Card dataset - Pure GNN model and Symbolic GNN model (hybrid)
+4. GNN models for Paysim - Pure GNN model and Symbolic GNN model (hybrid)
+5. requitements.txt - requitements for the project
 
 
 ## Requirements
