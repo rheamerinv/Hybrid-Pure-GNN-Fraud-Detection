@@ -1,4 +1,4 @@
-Hybrid & Pure GNN Fraud Detection
+#Hybrid & Pure GNN Fraud Detection
 
 Project Overview
 This project implements financial fraud detection using Graph Neural Networks (GNNs) on two datasets:
