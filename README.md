@@ -1,7 +1,7 @@
 # Hybrid & Pure GNN Fraud Detection
 
 ## Project Overview
-This project implements financial fraud detection using Graph Neural Networks (GNNs) on two datasets:
+This project implements financial fraud detection using Graph Neural Networks (GNNs) on two datasets, namely the Paysim Dataset and the Credit Card dataset. In this project we aim to solve these limitations, by developing a hybrid financial fraud detection system that combines Graph Neural Networks (GNNs) with symbolic AI rules to leverage both data-driven learning with  rules-based features
 
 ## Datasets
 
