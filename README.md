@@ -43,21 +43,9 @@ Both datasets are publicly available on Kaggle:
 ---
 
 ## 🏫 Academic Context
-- Developed as part of my **MSc in Computer Science** at **[Your University Name]**  
+- Developed as part of my **MSc in Computer Science** at **University of Birmingham**  
 - Focused on **Advanced Machine Learning, Graph Neural Networks, and AI for Financial Fraud Detection**  
 - Combines research skills (literature review, symbolic AI) with **practical engineering** (Kafka, Streamlit, Python)
-
----
-
-## 🗂 Project Structure
-
-project-folder/
-├── demo/ # End-to-end demo: dataset prep, model, streaming
-├── eda/ # Exploratory Data Analysis for PaySim & Credit Card datasets
-├── models/ccd/ # Credit Card dataset: Pure & Hybrid GNN models
-├── models/paysim/ # PaySim dataset: Pure & Hybrid GNN models
-├── requirements.txt # Python dependencies
-├── README.md
 
 ---
 
