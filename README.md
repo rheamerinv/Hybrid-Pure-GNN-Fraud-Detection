@@ -25,6 +25,7 @@ Kafka-based streaming simulation
 Streamlit dashboard with live fraud scores and fraud rings
 Uses hybrid GNN + symbolic rules on PaySim transactions
 
+![GNN Fraud Detection Demo](pi7_demo.gif)
 
 
 
