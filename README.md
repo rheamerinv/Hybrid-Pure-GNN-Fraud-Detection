@@ -3,7 +3,7 @@
 ## 🚀 Project Overview
 This project implements **financial fraud detection** using **Graph Neural Networks (GNNs)** on two datasets: **PaySim** (synthetic mobile transactions) and **Credit Card Transactions** (real-world dataset).  
 
-The project was developed as part of my **MSc in Computer Science** at **[Your University Name]**, where I focus on **AI, machine learning, and data analytics**.  
+The project was developed as part of my **MSc in Computer Science** at **University of Birmingham**, where I focus on **AI, machine learning, and data analytics**.  
 
 We address the limitations of conventional fraud detection models by developing a **hybrid system** that combines **data-driven GNNs** with **symbolic AI rules**, leveraging both predictive power and interpretable reasoning.  
 
@@ -39,6 +39,8 @@ Both datasets are publicly available on Kaggle:
 - **Streamlit dashboard** with live fraud scores and visualization of fraud rings  
 - Demonstrates **hybrid GNN + symbolic AI** applied to PaySim transactions
 
+
+![Pi7_Gif (1)](https://github.com/user-attachments/assets/917c2f66-f25d-41c3-a78f-8586fb4747a9)
 
 ---
 
